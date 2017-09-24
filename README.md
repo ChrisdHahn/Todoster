@@ -1,6 +1,6 @@
 # README
 
-This JavaScrupt app was built under the guidance of The Firehose Project. It impelements the following skills:
+This JavaScript app was built under the guidance of The Firehose Project. It impelements the following skills:
 
 - Javascript Language
 - Fluid user interface
