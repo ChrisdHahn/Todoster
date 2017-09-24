@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This JavaScrupt app was built under the guidance of The Firehose Project. It impelements the following skills:
 
-Things you may want to cover:
+- Javascript Language
+- Fluid user interface
+- JSON API
 
-* Ruby version
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Very simple task creationg and deletion app. It can be viewed here: [Todoster](https://todoster-chris-hahn.herokuapp.com/) 
